@@ -10,10 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Weread">
         <activity
+            android:name=".ui.Library.LibraryEmpty"
+            android:exported="true" />
+        <activity
             android:name=".SignUp"
             android:exported="true" />
         <activity
-            android:name=".Dashboard"
+            android:name=".Navigation"
             android:exported="true" />
         <activity
             android:name=".Login"
