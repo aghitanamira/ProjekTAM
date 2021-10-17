@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".Login"
     android:orientation="vertical"
-    android:background="#fff">
+    android:background="@color/white">
 
     <ImageView
         android:paddingTop="50dp"
@@ -30,6 +30,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/username"
             android:hint="Username"
+            app:placeholderText="Username"
             app:boxStrokeColor="#4D4C7D"
             app:boxStrokeWidthFocused="2dp"
             android:transitionName="username_tran"
@@ -46,6 +47,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/password"
             android:hint="Password"
+            app:placeholderText="Password"
             app:boxStrokeColor="#4D4C7D"
             app:passwordToggleEnabled="true"
             app:passwordToggleTint="#4D4C7D"

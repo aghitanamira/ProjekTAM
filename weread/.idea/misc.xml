@@ -3,11 +3,6 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/ARIN/aamatkul/semester5/TeknologiAplikasiMobile/TAMUAS/ProjekTAM/weread/app/src/main/res/layout/app_bar.xml" value="0.25833333333333336" />
-        <entry key="..\:/ARIN/aamatkul/semester5/TeknologiAplikasiMobile/TAMUAS/ProjekTAM/weread/app/src/main/res/layout/content_main.xml" value="0.25833333333333336" />
-        <entry key="..\:/ARIN/aamatkul/semester5/TeknologiAplikasiMobile/TAMUAS/ProjekTAM/weread/app/src/main/res/layout/drawer_header.xml" value="0.25833333333333336" />
-        <entry key="..\:/ARIN/aamatkul/semester5/TeknologiAplikasiMobile/TAMUAS/ProjekTAM/weread/app/src/main/res/layout/fragment_profile.xml" value="0.25833333333333336" />
-        <entry key="..\:/ARIN/aamatkul/semester5/TeknologiAplikasiMobile/TAMUAS/ProjekTAM/weread/app/src/main/res/layout/fragment_search.xml" value="0.25833333333333336" />
         <entry key="..\:/ARIN/aamatkul/semester5/TeknologiAplikasiMobile/uas_tam/ProjekTAM/weread/app/src/main/res/layout/app_bar.xml" value="0.25833333333333336" />
         <entry key="..\:/ARIN/aamatkul/semester5/TeknologiAplikasiMobile/uas_tam/ProjekTAM/weread/app/src/main/res/layout/drawer_header.xml" value="0.25833333333333336" />
         <entry key="..\:/ARIN/aamatkul/semester5/TeknologiAplikasiMobile/uas_tam/ProjekTAM/weread/app/src/main/res/layout/fragment_profil.xml" value="0.25833333333333336" />
@@ -16,7 +11,17 @@
         <entry key="..\:/KULIAH/Semester 5/TAM/Projek/Fix/weread/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
         <entry key="..\:/KULIAH/Semester 5/TAM/Projek/Fix/weread/app/src/main/res/layout/fragment_library.xml" value="0.1" />
         <entry key="..\:/KULIAH/Semester 5/TAM/Projek/Fix/weread/app/src/main/res/layout/grid_item.xml" value="0.1796875" />
+        <entry key="..\:/numpang/KELOMPOK/ProjekTAM/weread/app/src/main/res/drawable/gradient.xml" value="0.19583333333333333" />
+        <entry key="..\:/numpang/KELOMPOK/ProjekTAM/weread/app/src/main/res/drawable/ic_baseline_person.xml" value="0.19583333333333333" />
+        <entry key="..\:/numpang/KELOMPOK/ProjekTAM/weread/app/src/main/res/layout/activity_login.xml" value="0.1796875" />
+        <entry key="..\:/numpang/KELOMPOK/ProjekTAM/weread/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/numpang/KELOMPOK/ProjekTAM/weread/app/src/main/res/layout/activity_sign_up.xml" value="0.1796875" />
+        <entry key="..\:/numpang/KELOMPOK/ProjekTAM/weread/app/src/main/res/layout/app_bar.xml" value="0.1796875" />
+        <entry key="..\:/numpang/KELOMPOK/ProjekTAM/weread/app/src/main/res/layout/content_main.xml" value="0.11956521739130435" />
         <entry key="..\:/numpang/KELOMPOK/ProjekTAM/weread/app/src/main/res/layout/fragment_profile.xml" value="0.3333333333333333" />
+        <entry key="..\:/numpang/KELOMPOK/ProjekTAM/weread/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1796875" />
+        <entry key="..\:/numpang/KELOMPOK/ProjekTAM/weread/app/src/main/res/menu/main.xml" value="0.1796875" />
+        <entry key="..\:/numpang/KELOMPOK/ProjekTAM/weread/app/src/main/res/menu/navigation_drawer.xml" value="0.1796875" />
         <entry key="..\:/numpang/PROJECT KELOMPOK/ProjekTAM/weread/app/src/main/res/layout/activity_login.xml" value="0.10144927536231885" />
         <entry key="..\:/numpang/PROJECT KELOMPOK/ProjekTAM/weread/app/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
         <entry key="..\:/numpang/PROJECT KELOMPOK/ProjekTAM/weread/app/src/main/res/layout/fragment_profil.xml" value="0.22" />

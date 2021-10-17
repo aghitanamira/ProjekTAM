@@ -12,4 +12,10 @@
     <color name="buttonactive">#4d4c7d</color>
     <color name="BG_greyish">#F1F1F1</color>
     <color name="textcolor">#4D4C7D</color>
+
+    <color name="colorPrimaryDark">#39396C</color>
+    <color name="colorAccent">#AD82E3</color>
+    <color name="nightBackground">#555555</color>
+    <color name="dayBackground">#fffefe</color>
+
 </resources>
